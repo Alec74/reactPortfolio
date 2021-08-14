@@ -1,0 +1,60 @@
+{
+  "short_name": "React App",
+  "name": "React Portfolio",
+  "icons": [
+    {
+      "src": "./images/century.png",
+      "sizes": "512x512",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "./images/codeQuiz.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./images/demo1.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./images/demo3.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./images/dynamicWeather.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./images/noteTaker.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./images/project1.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "./images/seniorPortrait.jpeg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./images/workDaySched.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./images/resume.pdf",
+      "type": "text/pdf",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
