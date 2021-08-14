@@ -1,0 +1,38 @@
+*{
+    font-family: 'Crimson Text', serif;
+}
+
+main{
+    background-color: cadetblue;
+}
+
+.change{
+    background-color: cadetblue;
+}
+
+.color-card{
+    background-color: rgb(228, 228, 228);
+}
+
+.btn-primary{
+    background-color: rgb(52, 214, 52);
+}
+
+.font-head{
+    font-family: 'PT Serif', serif;
+}
+
+.font-text{
+    font-family: 'Crimson Text', serif;
+}
+
+#email{
+    text-decoration: underline;
+}
+#email:hover{
+    cursor: pointer;
+    color: coral;
+}
+#email:active{
+    user-select: all;
+}
